@@ -1,2 +1,5 @@
-# devops-exame01
-Exercicio 1 
+Futebol 
+
+Basket
+
+Basketball
